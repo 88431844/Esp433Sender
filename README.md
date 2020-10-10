@@ -3,5 +3,5 @@
  
  接入HomeKit为switch
 
-改编至：https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266
+改编自：https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266
 
